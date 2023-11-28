@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-printf("ola");
+printf("ola lucas seu pica mole");
